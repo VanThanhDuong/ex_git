@@ -1,0 +1,9 @@
+// push
+// creat a repo on github like repo in local
+// creat the same repo in local
+// --> git init
+// --> git status
+// --> git add --> add file to repo
+// --> git commit -m "commit" --> commit on local
+// --> git remote add <> <> --> address to push
+// --> git push -u
